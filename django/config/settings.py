@@ -35,6 +35,8 @@ INSTALLED_APPS = [
     'makingqueries',
     'ManyToOne',
     'manytomany',
+    'pizza_topping.apps.PizzaToppingConfig',
+    'extrafield.apps.ExtrafieldConfig',
 
 
     'django_extensions',
