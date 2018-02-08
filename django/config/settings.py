@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'manytomany',
     'pizza_topping.apps.PizzaToppingConfig',
     'extrafield.apps.ExtrafieldConfig',
+    'onetoone.apps.OnetooneConfig',
 
 
     'django_extensions',

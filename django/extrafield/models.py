@@ -1,4 +1,5 @@
 from django.db import models
+import datetime
 
 class Person(models.Model):
     name = models.CharField(max_length=50)
