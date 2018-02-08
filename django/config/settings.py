@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'firstapp',
     'makingqueries',
     'ManyToOne',
+    'manytomany',
 
 
     'django_extensions',
